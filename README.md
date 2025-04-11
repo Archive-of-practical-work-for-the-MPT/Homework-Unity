@@ -12,7 +12,7 @@
 ## Демонстрация
 
 <p align="center">
-      <img src="https://github.com/user-attachments/assets/f47f83c0-0937-49f8-a946-50597b2d04cc" alt="Игра" width="700">
+      <img src="https://github.com/user-attachments/assets/09fe74ec-2c02-457d-85e1-a1137ae2601d" alt="Игра" width="700">
 </p>
 
 ## Вывод
